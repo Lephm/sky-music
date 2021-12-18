@@ -65,9 +65,6 @@ export default {
         this.$router.push({ name: 'home' });
       }
     },
-    // toggleAuthModal() {
-    //   this.$store.commit('toggleAuthModal');
-    // },
   },
 };
 </script>
