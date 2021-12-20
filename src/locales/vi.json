@@ -1,0 +1,12 @@
+{
+  "home": {
+    "listen": "Nghe nhạc rất hay"
+  },
+  "register": {
+    "TOS": "Terms of Service",
+    "accept": "I accept Sky Music's {0}"
+  },
+  "song": {
+    "comment_count": "No comments | 1 Comment | {count} Comments"
+  }
+}

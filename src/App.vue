@@ -33,6 +33,7 @@ export default {
 }
 .fade-enter-active {
   transition: all 0.5s linear;
+  opacity: 1;
 }
 
 .fade-leave-to {
