@@ -54,8 +54,8 @@
           "
           v-if="currentSong.modified_name"
         >
-          <span class="song-title">{{currentSong.modified_name}}</span> by
-          <span class="song-artist">Uploaded by {{currentSong.displayName}}</span>
+          <span class="song-title">{{currentSong.modified_name}}</span>
+          <span class="song-artist">Uploaded by {{currentSong.display_name}}</span>
         </div>
         <!-- Scrub Container  -->
         <span
