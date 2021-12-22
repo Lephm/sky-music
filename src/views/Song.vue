@@ -20,6 +20,7 @@
             rounded-full
             focus:outline-none
           "
+          id="play-button"
           @click.prevent="newSong(song)"
         >
           <i
